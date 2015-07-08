@@ -1,5 +1,3 @@
-FlashPunk - Game latest by Nag with Champa
-=========
 
 Create games. Easy.
 -------------------
