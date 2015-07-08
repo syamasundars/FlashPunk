@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-FlashPunk - Game latest by nag syam
-=======
-FlashPunk - Game latest by Nag with Champa
->>>>>>> upstream/master
-=========
 
 Create games. Easy.
 -------------------
