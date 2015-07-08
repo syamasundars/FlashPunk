@@ -1,4 +1,4 @@
-FlashPunk - Game latest with champa and nag
+FlashPunk - Game latest by Nag
 =========
 
 Create games. Easy.
